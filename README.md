@@ -1,4 +1,5 @@
 # 323-06-Assignment2
+Sebastian Rodriguez & Kevin Delgado 
 
 Using the three given input strings:
 
